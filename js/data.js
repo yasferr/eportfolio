@@ -251,6 +251,12 @@ const MODULES = [
         path: "files/module-4/scholarplan-individual-project-presentation.pdf",
         name: "ScholarPlan: Individual Project Presentation",
         desc: "Slides on my implementation of ScholarPlan, an LLM-powered research planning agent (10 slides)."
+      },
+      { 
+         path: "https://github.com/yasferr/eportfolio/releases/download/module-4-files/ai-project.zip",
+  name: "AI Project: Implementation (ZIP)",
+  desc: "Full source code and files of the project.",
+  includes: ["Source code", "Data", "README"] 
       }
     ]
   },
