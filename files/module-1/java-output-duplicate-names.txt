@@ -1,0 +1,57 @@
+Last login: Fri Jan 23 18:19:02 on ttys000
+yasminferrera@Mac ~ % node cleanNames.js
+
+Original list: [
+  { name: 'Alice', age: 30, profession: 'Engineer' },
+  { name: 'bob', age: 25, profession: 'Designer' },
+  { name: 'alice', age: 28, profession: 'Developer' },
+  { name: 'Charlie', age: 35, profession: 'Manager' },
+  { name: 'BOB', age: 27, profession: 'Artist' },
+  { name: 'dave', age: 40, profession: 'Teacher' },
+  { name: 'Eve', age: 22, profession: 'Student' },
+  { name: 'charlie', age: 36, profession: 'Consultant' }
+]
+Processed list: [
+  { name: 'Alice', age: 30, profession: 'Engineer' },
+  { name: 'Bob', age: 25, profession: 'Designer' },
+  { name: 'Charlie', age: 35, profession: 'Manager' },
+  { name: 'Dave', age: 40, profession: 'Teacher' },
+  { name: 'Eve', age: 22, profession: 'Student' }
+]
+yasminferrera@Mac ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

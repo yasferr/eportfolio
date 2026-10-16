@@ -1,0 +1,17 @@
+Python 3.14.0 (v3.14.0:ebf955df7a8, Oct  7 2025, 08:20:14) [Clang 16.0.0 (clang-1600.0.26.6)] on darwin
+Enter "help" below or click "Help" above for more information.
+>>> 
+========= RESTART: /Users/yasminferrera/Desktop/MA ESSEX/namespyhton.py ========
+Original list:
+{'name': 'Alice', 'age': 24, 'profession': 'Engineer'}
+{'name': 'bob', 'age': 30, 'profession': 'Designer'}
+{'name': 'alice', 'age': 24, 'profession': 'Engineer'}
+{'name': 'Charlie', 'age': 28, 'profession': 'Developer'}
+{'name': 'BOB', 'age': 30, 'profession': 'Designer'}
+{'name': 'dave', 'age': 35, 'profession': 'Manager'}
+
+Processed list:
+{'name': 'Alice', 'age': 24, 'profession': 'Engineer'}
+{'name': 'Bob', 'age': 30, 'profession': 'Designer'}
+{'name': 'Charlie', 'age': 28, 'profession': 'Developer'}
+{'name': 'Dave', 'age': 35, 'profession': 'Manager'}
