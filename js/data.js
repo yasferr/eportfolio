@@ -254,9 +254,10 @@ const MODULES = [
       },
       { 
          path: "https://github.com/yasferr/eportfolio/releases/download/module-4-files/ai-project.zip",
-  name: "AI Project: Implementation (ZIP)",
+  name: "ScholarPlan Implementation (ZIP)",
   desc: "Full source code and files of the project.",
   includes: ["Source code", "Data", "README"] 
+  sha256: "c853fe22798064bc2ac062465b54b62115af5df1a3727f647aec80d4a5d9630c"
       }
     ]
   },
