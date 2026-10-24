@@ -185,7 +185,7 @@ const MODULES = [
     id: 4,
     title: "Intelligent Agents",
     tutor: "Dr Angesh Anupam",
-    status: "In progress",
+    status: "Completed",
     blurb: "Agent-based systems: models, architectures and intelligent agents for real-world problems.",
     keywords: ["Agent-based Systems", "Agent Models", "Intelligent Systems", "Research Issues", "Teamwork", "Ethics"],
     aims: [
@@ -264,8 +264,8 @@ const MODULES = [
   {
     id: 5,
     title: "Machine Learning",
-    tutor: "",
-    status: "Upcoming",
+    tutor: "Elizabeth Oladapo",
+    status: "In progress",
     blurb: "Learning algorithms, model evaluation and practical experimentation.",
     keywords: [], aims: [], outcomes: [], files: []
   },
